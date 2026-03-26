@@ -1,0 +1,14 @@
+
+build:
+  version: "3.0"
+
+
+cards:
+  message: "Welcome to EazyBank accounts related APIs we are using cards micro service"
+  contactDetails:
+    name: "Rahul Sharma - Developer"
+    email: "studyjava2@gmail.com"
+  onCallSupport:
+    -9584229436
+    -9334889130
+

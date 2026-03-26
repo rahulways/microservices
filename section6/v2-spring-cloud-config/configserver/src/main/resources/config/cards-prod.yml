@@ -1,0 +1,15 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to EazyBank accounts related APIs we are using cards micro service prod env "
+  contactDetails:
+    name: "Sneha Sharma - product owner"
+    email: "studyjava2@gmail.com"
+  onCallSupport:
+    -1111111111
+    -9111111111
+
+
+
+

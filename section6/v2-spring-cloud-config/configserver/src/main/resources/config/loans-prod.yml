@@ -1,0 +1,17 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to EazyBank accounts related PROD APIs of loans"
+  contactDetails:
+    name: "Sneha Singh - Product Owner of production of loans"
+    email: "studyjava50@gmail.com"
+  onCallSupport:
+    -1111111111
+    -9111111111
+
+
+
+
+
+

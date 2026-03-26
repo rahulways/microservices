@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs"
+  contactDetails:
+    name: "Munna Sharma - QA Lead"
+    email: "studyjava10@gmail.com"
+  onCallSupport:
+    -2222222222
+    -9222222222

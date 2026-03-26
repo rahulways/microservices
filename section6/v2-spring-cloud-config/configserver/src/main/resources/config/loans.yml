@@ -1,0 +1,14 @@
+
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to EazyBank accounts related APIs loans application"
+  contactDetails:
+    name: "Rahul Sharma - Developer loans"
+    email: "studyjava2@gmail.com"
+  onCallSupport:
+    -9584229436
+    -9334889130
+
+

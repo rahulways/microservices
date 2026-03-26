@@ -1,0 +1,12 @@
+build:
+  version: "2.0"
+
+
+cards:
+  message: "Welcome to EazyBank accounts related QA APIs of cards micro service"
+  contactDetails:
+    name: "Munna Sharma - Developer"
+    email: "studyjava2@gmail.com"
+  onCallSupport:
+    -2222222222
+    -92222222222
